@@ -1,2 +1,2 @@
 폴더2 eidt
-edit
+edit 깃허브에서 수정
